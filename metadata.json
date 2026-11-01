@@ -1,0 +1,6 @@
+{
+  "name": "PUSMENJAR CBT - Asesmen & Ujian Berbasis Komputer",
+  "description": "Aplikasi Simulasi CBT Pusmenjar ANBK lengkap dengan multi-mapel, verifikasi peserta & selfie foto, ragu-ragu, penjodohan interaktif SVG, pilihan ganda kompleks, dan rekap hasil.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
